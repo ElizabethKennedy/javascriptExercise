@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    position: relative;
+    align-items: center;
+    background-color: dodgerblue;
+    background-image: url("./images/fleur-de-lis.jpg");
+    background-repeat: repeat;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 72pt;
+    border: dotted;
+    border-color: black;
+    border-width: thick;
+}
